@@ -49,3 +49,34 @@ Digital cash and DeFi integrations
 📊 CoinMarketCap → https://coinmarketcap.com/currencies/canton-network/
 
 ⚠️ Please beware of scams. Only trust the links listed here or confirmed by official team members.
+
+
+
+## 🎓 Canton Core Academy
+
+AngelHack (Canton supervalidator) and Canton Network have launched **Canton Core Academy**, a hands-on developer program designed to help builders learn **Daml** and create institutional-grade financial applications on Canton.  
+
+The program runs from **October 2025 → March 2026** and is structured in 3 phases:  
+
+1. **Learn & Earn (Canton Core)** – October 6–24, 2025  
+   - Complete 6 interactive quests to learn the fundamentals of Canton and Daml  
+   - Rewards: **$8,000 prize pool**, up to **500 FREE Daml certifications** (valued at ~$150 each), plus $CC for capstone completion  
+   - Quests:  
+     - Quest 1: Introduction to Canton Network  
+     - Quest 2: Canton Architecture & Components  
+     - Quest 3: Getting Started with Daml Development  
+     - Quest 4: Your First Smart Contract  
+     - Quest 5: Enhancing Smart Contracts with Logic  
+     - Capstone: Final Project  
+
+2. **Canton Construct (Ideathon)** – November–December 2025  
+   - Teams pitch ideas, build prototypes, and compete for a share of **$20,000**.  
+   - Tracks include DeFi apps, tokenized RWAs, AMM/DEXes, collateral tools, and more.  
+
+3. **Canton Catalyst (Mentorship)** – January–February 2026  
+   - Winning teams join a mentorship program to refine prototypes into real-world deployable products.  
+   - Culminates in a Demo Day with ecosystem partners.  
+
+👉 Learn more: [Official Blog](https://www.canton.network/blog/angelhack-launches-canton-core-academy)  
+👉 Join the first campaign: [Unlocking Canton with Daml](https://www.canton.network/blog/angelhack-launches-canton-core-academy)  
+
