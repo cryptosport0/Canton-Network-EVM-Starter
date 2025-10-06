@@ -80,3 +80,27 @@ The program runs from **October 2025 → March 2026** and is structured in 3 pha
 👉 Learn more: [Official Blog](https://www.canton.network/blog/angelhack-launches-canton-core-academy)  
 👉 Join the first campaign: [Unlocking Canton with Daml](https://www.canton.network/blog/angelhack-launches-canton-core-academy)  
 
+
+📰 Latest News
+🎓 AngelHack launches Canton Core Academy
+
+AngelHack (a Canton supervalidator) and Canton Network have launched Canton Core Academy, a hands-on program for developers to learn Daml and build institutional-grade finance apps on Canton.
+
+💰 $28,000 prize pool across Learn & Earn quests and ideation tracks
+
+🧠 Mentorship & incubation opportunities with ecosystem partners
+
+🗓️ Runs October 2025 – March 2026
+Start here 👉 https://www.canton.network/blog/angelhack-launches-canton-core-academy
+
+🚀 Upcoming: Canton Core Learn & Earn Campaign
+
+Unlock Canton with Daml and explore how the network unifies traditional and crypto markets on-chain.
+
+📅 October 6 – 24, 2025
+
+💸 $8,000 reward pool
+
+🧩 6 quests + capstone project
+Join here 👉 https://www.canton.network/ecosystem
+
