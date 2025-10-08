@@ -104,3 +104,10 @@ Unlock Canton with Daml and explore how the network unifies traditional and cryp
 🧩 6 quests + capstone project
 Join here 👉 https://www.canton.network/ecosystem
 
+🆕 Added: How Canton Network Delivers Institutional-Grade Privacy
+
+Explained sub-transaction privacy & Proof-of-Stakeholder
+
+Detailed DvP workflow example
+
+Linked to official Canton blog for reference
