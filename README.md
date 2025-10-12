@@ -111,3 +111,5 @@ Explained sub-transaction privacy & Proof-of-Stakeholder
 Detailed DvP workflow example
 
 Linked to official Canton blog for reference
+
+Update: Added today’s institutional adoption tweet highlighting major Canton partnerships (HSBC, BNP Paribas, Chainlink, etc.) and reinforcing Canton’s role bridging TradFi & DeFi.
