@@ -113,3 +113,7 @@ Detailed DvP workflow example
 Linked to official Canton blog for reference
 
 Update: Added today’s institutional adoption tweet highlighting major Canton partnerships (HSBC, BNP Paribas, Chainlink, etc.) and reinforcing Canton’s role bridging TradFi & DeFi.
+
+
+🆕 Update: Added Tiger Research report on Canton Network (“Most Realistic Blockchain”) highlighting $6T+ tokenized assets, institutional adoption, Daml integration, and regulatory compliance.
+
